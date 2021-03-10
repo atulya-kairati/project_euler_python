@@ -7,3 +7,6 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 nums_divisible_by_3_or_5 = [x for x in range(1, 1000) if x % 3 == 0 or x % 5 == 0]
 sum_of_nums = sum(nums_divisible_by_3_or_5)
 print(sum_of_nums)
+
+
+# 233168
