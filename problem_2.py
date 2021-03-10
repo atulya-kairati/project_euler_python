@@ -18,3 +18,4 @@ for num in gen_fibonacci():
   
 print(sum_of_even_terms)
     
+# 4613732
